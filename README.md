@@ -1,5 +1,6 @@
-# python-notebooks
+# Python: conceptos básicos
 
+Descripción y ejemplos:
 
 - [Primeros pasos en Python](https://gii.github.io/python-nb-online/00-intro.html)	
 - [Entrada/salida](https://gii.github.io/python-nb-online/01-entrada-salida.html)
