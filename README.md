@@ -8,4 +8,4 @@ Descripción y ejemplos:
 - [Sentencias iterativas I](https://gii.github.io/python-nb-online/03-sentencias-iterativas-I.html)
 - [Sentencias iterativas II](https://gii.github.io/python-nb-online/04-sentencias-iterativas-II.html)
 - [Funciones I](https://gii.github.io/python-nb-online/05-funciones-I.html)
-- [Funciones II](https://gii.github.io/python-nb-online/05-funciones-II.html)
+- [Funciones II](https://gii.github.io/python-nb-online/06-funciones-II.html)
